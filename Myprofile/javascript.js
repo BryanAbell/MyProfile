@@ -27,4 +27,8 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
 }
 
+// Easter egg onclick picture
+function funnyText(id){
+  alert ( "I know you'd like to touch me, but this is only a picture!")
 
+}

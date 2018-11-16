@@ -23,6 +23,11 @@ h1 {
     
     padding: 0 1.5em 0 0;
 }
+/* make pointer for silly easter egg*/
+.main_image img:hover{
+  cursor: pointer
+}
+
 /* paragraph text display.  media query for larger devices*/
 .main_image{
   font-size: 1.2em;
@@ -163,5 +168,5 @@ a.button:hover{
 }
 
 
-<!--Media Queries-->  
+  
 
